@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+}
+
+#bg-1{
+    background-color: #f6f2f2;
+    margin: -10px -20px 0 -10px;
+    display: block;
+    height: 630px;
+}
+
+#menu{
+    background-color: #313030;
+    width: 79.2%;
+    min-height: 50px;
+    max-height: 63px;
+    margin: 20px 0 10px 10.4%;
+    padding-top 20px;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+#menu-a-1{
+    margin: 0 2.5% 0 20.7%;
+    padding: 14px 12px 0 12px;
+    height: 36px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    color: #e0e0e0;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 0.5px;
+}
+
+#menu-a-2{
+    font-family: 'Open Sans';
+    font-weight: bold;
+    color: #e0e0e0;
+    height: 36px;
+    margin: 0 2.5% 0 2.5%;
+    padding: 14px 12px 0 12px;
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 0.5px;
+}
+
+#menu-a-3{
+    font-family: 'Open Sans';
+    font-weight: bold;
+    color: #e0e0e0;
+    margin: 0 2.5% 0 2.5%;
+    padding: 14px 12px 0 12px;
+    font-size: 14px;
+    height: 36px;
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 0.5px;
+}
+
+#menu-a-1:hover, #menu-a-2:hover, #menu-a-3:hover{
+    background-color: #ff3f40;
+	transition: all 500ms ease;
+    color:white
+}
