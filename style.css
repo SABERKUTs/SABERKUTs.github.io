@@ -2,13 +2,22 @@ body{
     padding: 0;
 }
 
+#bg-1{
+    background-color: #000;
+    margin: -10px -20px 0 -10px;
+    display: block;
+    height: 630px;
+}
+
 #menu{
     background-color: #313030;
     width: 79.2%;
     min-height: 50px;
     max-height: 63px;
-    margin: 13px 0 10px 10.4%;
+    margin: 20px 0 10px 10.4%;
+    padding-top 20px;
     border-radius: 2px;
+    display: inline-block;
 }
 
 #menu-a-1{
@@ -51,6 +60,7 @@ body{
 }
 
 #menu-a-1:hover, #menu-a-2:hover, #menu-a-3:hover{
-    background-color:purple;
+    background-color: #ff3f40;
+	transition: all 500ms ease;
     color:white
 }
