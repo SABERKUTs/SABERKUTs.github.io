@@ -71,6 +71,7 @@ body{
     letter-spacing: 0.9px;
     font-weight: 400;
     font-size: 47px;
+    cursor: default;
 }
 
 .Text-2{
@@ -78,7 +79,8 @@ body{
     font-family: 'Open Sans';
     color: #6f6d6d;
     font-size: 16px;
-    width: 36%;
+    width: 37%;
+    cursor: default;
 }
 
 .ORGANAISATION{
