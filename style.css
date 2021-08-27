@@ -83,7 +83,15 @@ body{
     cursor: default;
 }
 
+#text-video{
+    display: inline-block;
+}
+
 .ORGANAISATION{
     margin: 0;
     letter-spacing: 5.5px;
+}
+
+.Video-urs{
+    width: 25%;
 }
