@@ -65,8 +65,23 @@ body{
     color:white
 }
 
+#btn-1{
+    width: 14.3%;
+    height: 40px;
+    color: #fff;
+    background-color: #ff2d2d;
+    margin: -20px 0 0 10.4%;
+}
+
+.ss{
+    text-decoration: none;
+    cursor: default;
+    margin-top: 100px;
+    color: #fff;
+}
+
 .Text-1{
-    margin: 60px 0 0 10.4%;
+    margin: 50px 0 0 10.4%;
     font-family: 'Open Sans';
     letter-spacing: 0.9px;
     font-weight: 400;
@@ -92,7 +107,9 @@ body{
 }
 
 .Video-urs{
-    width: 38%;
-    margin-left: 51.8%;
-    margin-top: -200px;
+    width: 41%;
+    margin-left: 48.6%;
+    margin-top: -219px;
+    border: 1px solid #ebc985;
+    border-radius: 8px;
 }
